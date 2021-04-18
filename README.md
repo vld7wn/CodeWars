@@ -1,7 +1,7 @@
 # Code-Wars
 Code Wars programming
 
-# 8 kuy
+# [8 kuy](https://github.com/vld7wn/Code-Wars/tree/main/8%20kuy)
 
 [Calculate Average](https://github.com/vld7wn/Code-Wars/tree/main/8%20kuy/CalculateAverage)
 
@@ -37,7 +37,7 @@ Code Wars programming
 
 
 
-# 7 kuy
+# [7 kuy](https://github.com/vld7wn/Code-Wars/tree/main/7%20kuy)
 
 [Cat dog year (2)](https://github.com/vld7wn/Code-Wars/tree/main/7%20kuy/CatGogYear2)
 
@@ -54,7 +54,7 @@ Code Wars programming
 [Youre a square](https://github.com/vld7wn/Code-Wars/tree/main/7%20kuy/YoureASquare)
 
 
-# 6 kuy
+# [6 kuy](https://github.com/vld7wn/Code-Wars/tree/main/6%20kuy)
 
 [Bouncing Balls](https://github.com/vld7wn/Code-Wars/tree/main/6%20kuy/BouncingBalls)
 
@@ -63,5 +63,3 @@ Code Wars programming
 
 
 [Vasya - Clerk](https://github.com/vld7wn/Code-Wars/tree/main/6%20kuy/VasyaClerk)
-
-
