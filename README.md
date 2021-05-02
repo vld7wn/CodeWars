@@ -1,4 +1,6 @@
 # [Code-Wars](https://www.codewars.com/users/vld7wn)
+
+https://www.codewars.com/users/vld7wn/badges/large
 >>>>>>Code Wars programming
 
 # [8 kuy](https://github.com/vld7wn/Code-Wars/tree/main/8%20kuy)
