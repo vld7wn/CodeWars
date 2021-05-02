@@ -1,3 +1,6 @@
+![Image alt](https://miro.medium.com/max/1000/1*9HeK12odwRVhRzMj2vdaJA.jpeg)
+
+
 ![Image alt](https://www.codewars.com/users/vld7wn/badges/large)
 
 
