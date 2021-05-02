@@ -54,6 +54,9 @@ Code Wars programming
 [Youre a square](https://github.com/vld7wn/Code-Wars/tree/main/7%20kuy/YoureASquare)
 
 
+[Descending Order](https://github.com/vld7wn/Code-Wars/tree/main/7%20kuy/DescendingOrder/src/main/java)
+
+
 # [6 kuy](https://github.com/vld7wn/Code-Wars/tree/main/6%20kuy)
 
 [Bouncing Balls](https://github.com/vld7wn/Code-Wars/tree/main/6%20kuy/BouncingBalls)
