@@ -65,6 +65,9 @@
 [Descending Order](https://github.com/vld7wn/Code-Wars/tree/main/7%20kuy/DescendingOrder/src/main/java)
 
 
+[Isogram](https://github.com/vld7wn/CodeWars/tree/main/7%20kuy/Isogram/src/main/java)
+
+
 # [6 kuy](https://github.com/vld7wn/Code-Wars/tree/main/6%20kuy)
 
 [Bouncing Balls](https://github.com/vld7wn/Code-Wars/tree/main/6%20kuy/BouncingBalls)
